@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  azureSubscriptionConnectionName: 'defaultAzure'
+  azureSubscriptionConnectionName: 'Azure DEVIT sandbox'
   helmVersion: 3.1.2
   AZURE_CONTAINER_REGISTRY_NAME: 'dzenixacr'
 
